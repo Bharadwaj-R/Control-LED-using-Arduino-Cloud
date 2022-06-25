@@ -32,7 +32,7 @@ The main goal of the project is to control an LED over the cloud, just by flicki
   </kbd>
 </p>  
 
-The same arrangement can be used for Mobile view also. Please visit [this repository](https://github.com/Bharadwaj-R/NodeMCU-and-Arduino-Cloud), where I have explained how to edit and save dashboards.  
+The same arrangement can be used for Mobile view also. Please refer to [this repository](https://github.com/Bharadwaj-R/NodeMCU-and-Arduino-Cloud) for creating and editing new dashboards. Also, refer [Troubleshoot Section](https://github.com/Bharadwaj-R/NodeMCU-and-Arduino-Cloud/edit/main/Troubleshoot.md#Troubleshoot), in case you have any issues regarding code compiling and uploading.  
 <br/>
 
 ***Versions :***  
@@ -40,6 +40,6 @@ The same arrangement can be used for Mobile view also. Please visit [this reposi
 <br/>
 
 ***Motivation Behind the Project :***  
-I learnt the basics of Cloud Computing, and wanted to explore the applications of it in IoT. But Arduino Uno is not suitable for this as it can't connect to internet. The next low-cost alternative I found out was NodeMCU with ESP8266 WiFi chip. This simple project was done by me as the first step in exploring the world of WiFi enabled chips and IoT cloud. Hope you like my project and if you do, then please star the project and consider following me.   
+I learnt the basics of Cloud Computing, and wanted to explore the applications of it in IoT. But Arduino Uno is not suitable for this as it can't connect to internet. The next low-cost alternative I found out was NodeMCU with ESP8266 WiFi chip. This simple project was done by me as the first step in exploring the world of WiFi enabled chips and IoT cloud. Hope you like my project and if you do, please star the project and consider following me.   
 
-Visit [My GitHub Profile](https://github.com/Bharadwaj-R) for more projects on Arduino, NodeMCU and other Embedded Development boards.
+Visit [My GitHub Profile](https://github.com/Bharadwaj-R) for more projects on Arduino, NodeMCU and other Embedded Development boards.  

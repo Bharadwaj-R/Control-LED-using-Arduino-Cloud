@@ -3,7 +3,7 @@
 
 void setup() 
 {
-  pinMode(16, OUTPUT);
+  pinMode(16, OUTPUT);      //GPIO pin 16 is equivalent to NodeMCU pin "D0"
   Serial.begin(9600);
   delay(1500); 
   initProperties();
